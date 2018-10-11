@@ -1,0 +1,22 @@
+{
+  "name": "frontend_buildsystem",
+  "version": "1.0.0",
+  "description": "This is a build system for frontend apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandipbhuyan/frontend_buildsystem.git"
+  },
+  "author": "Sandip Bhuyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandipbhuyan/frontend_buildsystem/issues"
+  },
+  "homepage": "https://github.com/sandipbhuyan/frontend_buildsystem#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0"
+  }
+}
