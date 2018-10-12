@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/sandipbhuyan/frontend_buildsystem#readme",
   "devDependencies": {
+    "browser-sync": "^2.26.0",
     "gulp": "^4.0.0",
     "gulp-sass": "^4.0.1"
   }
